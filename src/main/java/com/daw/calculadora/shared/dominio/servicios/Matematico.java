@@ -24,6 +24,6 @@ public class Matematico {
     }
 
     public static int potenciar(int op1, int op2) {
-        return op1*();
+        return (int) Math.pow(op1, op2);
     }
 }
